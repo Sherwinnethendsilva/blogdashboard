@@ -1,0 +1,7 @@
+{
+    "lists":{
+        "Home" :{"title":"Home","page":"/"},
+        "Recipes": {"title":"Recipes","page":"/recipes"},
+        "About": {"title":"About","page":"/about"}
+    }
+}
