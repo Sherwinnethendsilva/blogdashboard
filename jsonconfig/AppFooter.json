@@ -1,0 +1,20 @@
+{
+    "socials": {
+        "Instagram": {
+            "title": "Instagram",
+            "image": "/instagram.png"
+        },
+        "Facebook": {
+            "title": "Facebook",
+            "image": "/facebook.png"
+        },
+        "Youtube": {
+            "title": "Youtube",
+            "image": "/youtube.png"
+        },
+        "Twitter": {
+            "title": "Twitter",
+            "image": "/twitterx.png"
+        }
+    }
+}
