@@ -9,4 +9,11 @@ export default defineNuxtConfig({
     },
   },
   modules: ['@nuxtjs/fontaine'],
+  app:{
+    head:{
+      htmlAttrs:{
+        lang:"en"
+      }
+    }
+  }
 })
